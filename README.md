@@ -1,2 +1,2 @@
 # TPFinalCodoACodo
-Se trata de conectar el TPO anterior con Django
+Se hace el deploy a Python Anywhere
