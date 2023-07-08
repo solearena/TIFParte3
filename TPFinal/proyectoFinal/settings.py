@@ -31,6 +31,10 @@ ALLOWED_HOSTS = ["soleado.pythonanywhere.com"]
 
 # Application definition
 
+APPS = [
+    "app_proyecto"
+]
+
 APPS_EXTERNA = [
     'rest_framework',
 ]
